@@ -5,3 +5,5 @@
 - Heading 2 is used for all subheadings with H3 used for subs of those and H4 for subs of 3 and so on.
 - Buttons / hyperlinks would ideally have less than 6 words and be in Title Case. The goal should be to have shorter labels for these as they do not present well when they wrap to more than one line.
 - Ampersands can be used to shorten labels for titles and buttons.
+
+Test if edits are syncing..
