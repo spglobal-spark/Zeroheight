@@ -1,9 +1,3 @@
-# Component Guidelines
-This is how we automate component guidelines
-- Bullet 1
-- Bullet 2
-- Bullet 3
-
 ## Labels (Buttons, Hyperlinks, Headings, etc.) Follow Case Guidelines
 - Title Case (5 words or less) or Sentence case (6 words or more). 
 - Note: exceptions are allowed to keep the labels on the page consistent
