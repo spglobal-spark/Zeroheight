@@ -160,5 +160,13 @@
   "grey-color-80": "#363636",
   "grey-color-90": "#0f0f0f",
   "grey-color-100": "#000000",
-  "grey-color": "#828282"
+  "grey-color": "#828282",
+  "text-secondary-color": "#454545",
+  "text-tertiary-color": "#757575",
+  "focus-visible-shadow-color": "#245C8B",
+  "border-radius-xl": "0px",
+  "border-radius-l": "0px",
+  "border-radius-m": "0px",
+  "border-radius-s": "0px",
+  "border-radius-xs": "0px"
 }
